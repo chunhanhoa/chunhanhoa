@@ -1,10 +1,10 @@
-- 👋 Hi
-- 👀 
-- 🌱 
-- 💞️
-- 📫 
-- 😄 
-- ⚡ 
+- 👋 HI
+- 👀 I
+- 🌱 '
+- 💞️ M
+- 📫 H
+- 😄 O
+- ⚡ A
 
 <!---
 chunhanhoa/chunhanhoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
