@@ -21,13 +21,6 @@
 
 ---
 
-<h3 align="center"> Fun Facts </h3>
-<p align="center">
-   Exploring the infinite world. <br>
-   <b>Goal:</b> Conquer the industry with passion and innovation!
-</p>
-
----
 
 <h3 align="center"> Motto </h3>
 <p align="center">
