@@ -13,10 +13,7 @@
    <b>Connect with me:</b> <br>
   <a href="https://linkedin.com/in/hoacn" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://www.leetcode.com/hoacn" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" />
-  </a>
+
 </p>
 
 ---
