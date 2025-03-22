@@ -10,10 +10,6 @@
    Hi! I'm Nhan Hoa <br>
    <b>Interests:</b> Tech | Anime | Football | Music <br>
    <b>Goal:</b> Always striving to automate the boring stuff! <br><br>
-   <b>Connect with me:</b> <br>
-  <a href="https://linkedin.com/in/hoacn" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
-
 </p>
 
 ---
