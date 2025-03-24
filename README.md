@@ -7,7 +7,6 @@
 
 <h3 align="center"> About Me </h3>
 <p align="center">
-   Hi! I'm Nhan Hoa <br>
    <b>Interests:</b> Tech | Anime | Football | Music <br>
    <b>Goal:</b> Always striving to automate the boring stuff! <br><br>
 </p>
