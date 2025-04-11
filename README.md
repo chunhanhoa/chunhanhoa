@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://media.giphy.com/media/TF9z8Id4LJru8/giphy.gif" alt="Anime Hello" width="180">
 </p>
