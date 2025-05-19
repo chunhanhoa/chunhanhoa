@@ -9,6 +9,5 @@
 <br/>
 
 <p align="center">
-  <b style="font-size: 18px;">Motto:</b><br/>
   <em style="font-size: 16px;">"The journey of a thousand miles begins with a single line of code!"</em>
 </p>
