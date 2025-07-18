@@ -6,5 +6,5 @@
 
 <p align="center">
   <em>"The journey of a thousand miles begins with a single line of code!"</em><br/>
-  <sub>📍Tp.hcm, Vietnam</sub>
+  <sub><strong>📍TP.HCM, VIETNAM</strong></sub>
 </p>
