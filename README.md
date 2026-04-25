@@ -1,5 +1,5 @@
 <center>
   <em>"The journey of a thousand miles begins with a single line of code!"</em><br/>
-  <sub><strong>📍 Tp.HCM, VietNam</strong></sub><br/>
-  <sub><strong>🏢 FPT Software</sub></strong>
+  <sub><strong>📍 TP.HCM, VIỆT NAM</strong></sub><br/>
+  <sub><strong>💼 FPT SOFTWARE (Intern)</sub></strong>
 </center>
