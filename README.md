@@ -1,5 +1,5 @@
 <center>
-  <em>"The journey of a thousand miles begins with a single line of code!"</em><br/>
-  <sub><strong>° Tp.HCM, Việt Nam</strong></sub><br/>
-  <sub><strong>° FPT Software(Intern)</sub></strong>
+  <em>"Hated. Adored. Never Ignored "</em><br/>---------------------------------------<br/>
+  <sub><strong>° Tp.Hcm, Việt Nam | 04</strong></sub><br/>
+  <sub><strong>° FPT Software (Intern)</sub></strong>
 </center>
